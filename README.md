@@ -41,20 +41,6 @@ A full-featured blog system built using **Laravel 12** (API) and **React** (Fron
 
 ---
 
-## 📁 Project Structure
-
-blog-system/ 
-  ├── backend/ # Laravel 12 API │ 
-          ├── app/ │ 
-          ├── routes/api.php │  
-  ├── frontend/ # React + Tailwind │ 
-          ├── src/ │ 
-          ├── public/ │ 
-  └── ScreenShots
-  └── README.md
-
----
-
 ## 🚀 Installation Guide
 
 ### 🔧 Backend (Laravel API)
